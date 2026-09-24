@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/apis-guru",
   "title": "Apis Guru",
   "description": "APIs.guru MCP — keyless directory of 2,500+ public APIs and their OpenAPI specs.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/apis-guru",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-apis-guru",
