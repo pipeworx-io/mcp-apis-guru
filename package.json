@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-apis-guru",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "APIs.guru MCP — keyless directory of 2,500+ public APIs and their OpenAPI specs. https://apis.guru",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "apis-guru",
     "gatewaySlug": "apis-guru",
-    "sourceHash": "v1-7a70faefeb9290e6c8347c3dd0ed2b5f34eb2e8609e037051dbc6f11acc9ef34",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-dac39c18fa8af0e00b8b35517ac0fc3b277af64c42f1709d5bd2e2ba9310a7ea",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
